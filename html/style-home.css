@@ -26,15 +26,12 @@ em strong {
     background: #FFFF;
     padding: 20px;
 }
-.titulo-principal {
-    padding-left: 20px;
-}
 
 .titulos-centralizados {
     text-align: center;
 }
 
-ul {
+.lista {
     display: inline-block;
     vertical-align: top;
     width: 20%;
