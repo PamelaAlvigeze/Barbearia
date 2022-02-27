@@ -1,18 +1,18 @@
 header {
-    background: #BBBBBB;
+    background:black;
     padding: 20px 0;
-}
+ }
 
 .caixa {
-    position: relative;
-    width: 940px;
-    margin: 0 auto;
+    padding: 20px;
+    display:flex;
+    justify-content: center
+    
 }
 
-nav {
-    position: absolute;
-    top: 110px;
-    right: 0;
+.menu-barbearia {
+    display:flex;
+    justify-content: center;
 }
 
 nav li {
@@ -22,7 +22,7 @@ nav li {
 
 nav a {
     text-transform: uppercase;
-    color: #000000;
+    color: white;
     font-weight: bold;
     font-size: 22px;
     text-decoration: none;
